@@ -1,11 +1,13 @@
 # Título do Projeto
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto]
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+É um sistema de gerenciamento para chamados de serviços TI, sendo focado na garantia do SLA
+contratado com o cliente, sendo possível acompanhar em tempo real o clico de vida do
+chamado.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -23,34 +25,24 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 * [Agradecimentos](#agradecimentos)
 
 
-# Requisitos Funcionais 
+# Requisitos Funcionais
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] Gestão de SLA; tela onde podemos visualizar a número, status, descrição, tempo até a
+violação e mais algumas informações.
+- [x] Gestão de backlog: sendo possível verificar a distribuição de chamados por clientes,
+grupos, status e etc.
+- [x] Gestão de Backlog; Visualização de Quantidade de chamados, distribuição por tecnologia, status, cliente, dia, etc...
+- [x] Hyperlink para o chamado; Clicando no numero do chamado gera um hyperlink para outra ferramenta que o mesmo foi registrado.
+- [x] Registro de Acompanhamento; Campo de registro do acompanhamento feito no chamado, eventos importantes, dados apartados.
+- [ ] ********
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-# Contribuição
-
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+- [Python](https://www.python.org/)
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
-
-# Licença
-
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+[Exemplo](https://github.com/Sangiorge - https://github.com/Jvgsouza - https://github.com/Thalisom - https://github.com/Leorzsantos)
 
 # Agradecimentos
 
