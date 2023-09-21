@@ -42,7 +42,7 @@ grupos, status e etc.
 
 # Autores
 
-[Exemplo](https://github.com/Sangiorge - https://github.com/Jvgsouza - https://github.com/Thalisom - https://github.com/Leorzsantos)
+[Exemplo](https://github.com/Sangiorge - https://github.com/Jvgsouza - https://github.com/Thalisom - https://github.com/Leorzsantos - https://github.com/LucianoAlves98)
 
 # Agradecimentos
 
