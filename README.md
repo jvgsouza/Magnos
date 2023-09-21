@@ -29,12 +29,10 @@ chamado.
 
 - [x] Gestão de SLA; tela onde podemos visualizar a número, status, descrição, tempo até a
 violação e mais algumas informações.
-- [x] Gestão de backlog: sendo possível verificar a distribuição de chamados por clientes,
-grupos, status e etc.
 - [x] Gestão de Backlog; Visualização de Quantidade de chamados, distribuição por tecnologia, status, cliente, dia, etc...
-- [x] Hyperlink para o chamado; Clicando no numero do chamado gera um hyperlink para outra ferramenta que o mesmo foi registrado.
-- [x] Registro de Acompanhamento; Campo de registro do acompanhamento feito no chamado, eventos importantes, dados apartados.
-- [ ] ********
+- [x] Hyperlink para o chamado; Clicando no numero do chamado gera um hyperlink para outra ferramenta que o mesmo foi registrado e lá pode ser visualizado/modificado.
+- [x] Registro de Acompanhamento; Campo de registro do acompanhamento feito no chamado, eventos importantes, dados apartados, ações realizadas pelo ticket manager.
+- [x] Acompanhamento de Mudanças; Mesmo esquema dos chamados, sendo focado em mudanças que fazem referencias as chamados. Sendo possivel acompanhar as tarefas de mudanças, prazo da mudança.
 
 # Tecnologias Usadas
 
