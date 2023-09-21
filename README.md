@@ -1,7 +1,7 @@
 # Cockpit
 
 
-![Capa do Projeto]
+![Capa do Projeto](https://imgur.com/a/Xm7GWRc)
 
 # Sobre o Projeto
 
