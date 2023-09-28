@@ -6,7 +6,7 @@
 # Sobre o Projeto
 
 É um sistema de gerenciamento para chamados de serviços TI, sendo focado na garantia do SLA
-contratado com o cliente, sendo possível acompanhar em tempo real o clico de vida do
+contratado com o cliente, sendo possível acompanhar em tempo real o ciclo de vida do
 chamado.
 
 <h4 align="center"> 
